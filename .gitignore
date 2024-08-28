@@ -1,0 +1,9 @@
+# Visual Studio 2015 user specific files
+logs/*
+
+# Binary Files
+*.ico
+*.spec
+*.cfg
+*.txt
+*.fb2
